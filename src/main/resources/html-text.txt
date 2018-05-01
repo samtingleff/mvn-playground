@@ -1,0 +1,388 @@
+   DigiTrust.initialize({
+    member: "IzXoEURCkm",
+    site: "ztnV3gXrYQ",
+    adblocker: {
+      blockContent: false
+       }
+    },
+    function (digiTrustResult) {
+      console.log(digiTrustResult);
+    }
+   );
+  
+  marginal focus
+ 
+ 
+ 
+
+  
+
+   
+    
+     marginal focus
+     
+    
+    
+   
+
+   
+    
+     blog
+     contact
+    
+    
+     
+         
+     
+     
+         
+     
+     
+         
+     
+     
+         
+     
+     
+    
+   
+
+   
+
+   
+    
+
+           
+
+            
+             Aug 11, 2017
+            
+
+            
+             Weekly Links: August 11, 2017
+             
+              
+             
+            
+
+            
+
+            
+             
+             Fuck the FCC: Almost all of FCC's New Advisory Panel Works for Telecoms
+             Wapo: Surprise, Republicans hate experts
+             450 scientists present stunning rebuke of Trump’s climate science denial
+             Surprise, Republicans hate non-Republican voters
+             
+
+            
+
+           
+           
+
+            
+             Aug 07, 2017
+            
+
+            
+             Civil Disobedience in the Modern Era
+             
+              
+             
+            
+
+            
+
+            
+             I've been thinking about civil disobedience in the modern era.
+             We have a party which maintains power through a huge variety of fuckery and they're not about to give up on the obsolete or corrupt institutions like the Electoral College which keep them in power. They will do everything they can to hold on to power through dirty tricks like gerrymandering and voter disenfrachisement.
+             They lie through their teeth constantly through social media platforms which provide a massive, free platform to spread the message.
+             At the same time, their leadership spits out anti-science nonsense of all kinds: climate change denial, maths denial, science denial within the EPA, vaccine denial, forensic science denial, etc etc.
+             One could reasonably say that you do not get to deny science in one realm yet benefit from it in another.
+             If you do not believe in the reality of climate change, should you really get to benefit from the science which designed and built the iPhone? If you think that vaccines cause autism, should you really have access to mass communication platforms like twitter, which are built on decades of scientific and technological innovation? If you think encryption (math) is something which can be regulated and restricted, do you really have a right for your email to deliver over SSL?
+             So, what might a scientist or engineer do as an act of civil disobience towards a party of science deniers? Here's a couple of ideas.
+             
+             On a user registration page, ask the question &ldquo;is climate change a hoax?&rdquo; and deny access to any positive respondent.
+             Disable SSL when serving any content (login forms, private communications, or other) to Amber Rudd and any supporters of encryption legislation.
+             Introduce subtle and annoying bugs to @GOP leadership using your product built on social media APIs.
+             Use sentiment analysis to discover anti-science nonsense and tag it with a very visible bullshit 💩 label.
+             
+             The fact is that we (technology providers) are enabling these assholes yet are under no obligation to do so. And to be clear, I'm not arguing against free speech. But if you're anti-science, the intellectually honest thing to do would be to live with the Amish.
+
+            
+
+           
+           
+
+            
+             Apr 14, 2017
+            
+
+            
+             Weekly Links: April 14, 2017
+             
+              
+             
+            
+
+            
+
+            
+             
+             NYMag: Before This Is Over, Republicans Are Going to Wish Hillary Clinton Won
+             NYT: The G.O.P.’s Existential Crisis
+             CNN: 19 companies pull ads from 'The O'Reilly Factor'. Sadly the endless stream of bullshit coming from his mouth was never a problem; at least (alleged) sexual assault is one.
+             Salon: Life Cycle of a Trump Lie
+             Propublica: Tom Price, stock manipulator
+             Wapo: Mitch McConnell, the man who broke America
+             NYMag on asymmetric polarization. Survey says&hellip; GOP is destroying America.
+             The Nation: 20 People Now Own As Much Wealth as Half of All Americans
+             Nautilus: Darwin Was a Slacker and You Should Be Too
+             
+
+            
+
+           
+           
+
+            
+             Mar 31, 2017
+            
+
+            
+             Weekly Links: March 31, 2017
+             
+              
+             
+            
+
+            
+
+            
+             
+             BBC: Trump Russia dossier key claim 'verified'. Sadly not the pee thing.
+             Hiring Ivanka is nepotism. No shit?
+             Trump &ldquo;feels great&rdquo; about his trips to Mar-a-Lago.
+             The Hill: House Votes to Restrict the EPA Use of Science. For all the other fucking nonsense, this administration's attack on science and climate change is going to go down in history as the single worst political stance ever made. On Earth, anyway.
+             NYT: The GOP's Existential Crisis
+             Darwin was a slacker and you should be too
+             Propublica: Tom Price Intervened on Rule That Would Hurt Drug Profits, the Same Day He Acquired Drug Stock
+             
+
+            
+
+           
+           
+
+            
+             Mar 17, 2017
+            
+
+            
+             Weekly Links: March 17, 2017
+             
+              
+             
+            
+
+            
+
+            
+             
+             HBR: Why Do So Many Incompetent Men Become Leaders?
+             VF: Business Leaders Ask Trump to Make Polluting Grat Again
+             Major new study shows political polarization is mainly a right wing thing
+             Reuters: Russian elite invested nearly $100 million in Trump buildings
+             
+
+            
+
+           
+           
+
+            
+             Feb 17, 2017
+            
+
+            
+             Weekly Links: February 17, 2017
+             
+              
+             
+            
+
+            
+
+            
+             Trump is the Medicine we Need
+             Revisiting last week, I remain convinced that we're better off with Trump than without him. A bumbling fool is easier to deal with than a malicious plutocrat.
+             The bumbling fool makes his malicious intentions clear. He tells you obvious little lies all the time (&ldquo;biggest Electoral College victory since Reagan&rdquo;) which makes it very clear that he has no intention of ever telling you the truth. The career politician knows to avoid getting caught in a small lie in order to make the big lies more palatable.
+             Let's face it, the Republican party agenda today is built on a foundation of big lies
+             
+             climate change is not real and the EPA is bad for you
+             taking away your health care is in your own best interest
+             crony capitalism will help you get rich
+             terrorists represent a greater threat than mentally ill US citizens
+             
+             Someone like Pence, or Ryan, knows how to avoid getting caught in the stupid little lies, which tend to blow up in the media and get people angry. If you avoid the little lies you are more likely to get away with the big lies, which are complicated and tend not make for good rallies. Whoever went to a march to protest cooking the books on a budget forecast.
+             If you remove Trump, you remove the little lies and replace it with professional bullshit. And the liberal outrage dies down, and it becomes far less clear whether or not something is &ldquo;fake news&rdquo; or not.
+             I'll take four years of Trump and his bumbling lies, blocked at nearly every step by protest, over four years of Pence or Ryan, who will quietly fuck over the environment and unravel decades of regulation in the interest of crony capitalism.
+             
+             Replican &ldquo;town halls&rdquo; have been a pleasant little shit show of truth lately
+             Donald Trump Stunned To Learn Presidency Is An Actual Job, His First
+             Schwarzenegger tell congress they couldn't beat herpes in polls because of gerrymandering
+             How soon before the White House petition platform is killed for the thought crime of asking for Trump's tak return
+             
+
+            
+
+           
+           
+
+            
+             Feb 10, 2017
+            
+
+            
+             Weekly Links: February 10, 2017
+             
+              
+             
+            
+
+            
+
+            
+             Imagine three possible worlds:
+             
+             Trump loses the election (well, the Electoral College one) and launches a cable network to spout alternative facts and propaganda 24/7.
+             Trump is impeached and Pence takes the reigns.
+             Trump miraculously holds on to the presidency for four years, frustrated at every step by the courts and a majority of the country.
+             
+             As ridiculous as it sounds (3) is perhaps the best outcome of all. It's forced the country to understand the GOP for what it is - an extremist minority religious group with four basic goals: environmental destruction; tax cuts, deregulation and other welfare for the wealthy; and a populace so afraid of terrorism that we welcome a police state.
+             If Pence takes over, the GOP returns to Republican-ism as usual, hiding the agenda behind far more mainstream bullshit than Trump appears capable of doing. Trump's &ldquo;drain the swamp&rdquo; turns out to mean taking Republican politics to it's nadir, which is a helpful exercise for the rest of us to understand the real objectives.
+             
+             Gerrymandering reform gains momentum
+             NYT: why nobody cares the president is lying
+             Surprise! Trump has not divested his empire at all
+             Independent: apparently Trump does not even read the EOs he signs
+             The senators who opposed DeVos represent 36 million more people than her supporters
+             Umair on Trust
+             
+
+            
+
+           
+           
+
+            
+             Feb 03, 2017
+            
+
+            
+             Weekly Links: February 3, 2017
+             
+              
+             
+            
+
+            
+
+            
+             
+             Death Race 2050 is where we're heading
+             Melting Asphalt: Crony Beliefs
+             Umair: The Broken Age
+             Trial Balloon for a Coup
+             Wall Street Wakes Up
+             NYer: Doomsday Prep for the Super Rich
+             Who needs clean water anyway: Senate Votes to Dump Coal Mining Debris into Streams
+             
+
+            
+
+           
+           
+
+            
+             Aug 19, 2016
+            
+
+            
+             Weekly Links: August 19, 2016
+             
+              
+             
+            
+
+            
+
+            
+             
+             Wapo: Comcast wants to sell your web history
+             Humpback whales around the globe are rescuing other species from Orcas
+             BBC: Why it pays to be grumpy and bad tempered
+             
+
+            
+
+           
+           
+
+            
+             Jun 10, 2016
+            
+
+            
+             Weekly Links: June 10, 2016
+             
+              
+             
+            
+
+            
+
+            
+             
+             Youtube: Mike Rowe on blue collar jobs
+             Misperceiving Bullshit as Profound Is Associated with Favorable Views of Cruz, Rubio, Trump and Conservatism
+             Now you, too can become an animal cyborg capable of sensing north
+             Oklahoma Police have become literal highway robbers
+             
+
+            
+
+           
+
+
+     
+      
+      
+      
+     
+
+    
+
+
+   
+
+   
+
+  
+
+    
+     
+      &copy; 2017 Sam Tingleff
+      
+      
+     
+    
+
+  
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-567006-1', 'auto');
+    ga('send', 'pageview');
